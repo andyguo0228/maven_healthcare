@@ -1,0 +1,91 @@
+release_period,measure_id,bottom-box_percentage,middle-box_percentage,top-box_percentage,measure
+2015,H_CLEAN_HSP,8,18,74,Cleanliness of Hospital Environment
+2015,H_COMP_1,4,17,79,Communication with Nurses
+2015,H_COMP_2,4,14,82,Communication with Doctors
+2015,H_COMP_3,9,23,68,Responsiveness of Hospital Staff
+2015,H_COMP_5,18,17,65,Communication about Medicines
+2015,H_COMP_6,14,0,86,Discharge Information
+2015,H_COMP_7,5,43,52,Care Transition
+2015,H_HSP_RATING,8,21,71,Overall Hospital Rating
+2015,H_QUIET_HSP,9,29,62,Quietness of Hospital Environment
+2015,H_RECMND,5,24,71,Willingness to Recommend the Hospital
+2016,H_CLEAN_HSP,8,18,74,Cleanliness of Hospital Environment
+2016,H_COMP_1,4,16,80,Communication with Nurses
+2016,H_COMP_2,4,14,82,Communication with Doctors
+2016,H_COMP_3,9,23,68,Responsiveness of Hospital Staff
+2016,H_COMP_5,18,17,65,Communication about Medicines
+2016,H_COMP_6,13,0,87,Discharge Information
+2016,H_COMP_7,5,43,52,Care Transition
+2016,H_HSP_RATING,8,20,72,Overall Hospital Rating
+2016,H_QUIET_HSP,9,29,62,Quietness of Hospital Environment
+2016,H_RECMND,5,24,71,Willingness to Recommend the Hospital
+2017,H_CLEAN_HSP,8,18,74,Cleanliness of Hospital Environment
+2017,H_COMP_1,4,16,80,Communication with Nurses
+2017,H_COMP_2,4,14,82,Communication with Doctors
+2017,H_COMP_3,8,23,69,Responsiveness of Hospital Staff
+2017,H_COMP_5,17,18,65,Communication about Medicines
+2017,H_COMP_6,13,0,87,Discharge Information
+2017,H_COMP_7,5,43,52,Care Transition
+2017,H_HSP_RATING,7,20,73,Overall Hospital Rating
+2017,H_QUIET_HSP,9,28,63,Quietness of Hospital Environment
+2017,H_RECMND,5,23,72,Willingness to Recommend the Hospital
+2018,H_CLEAN_HSP,8,17,75,Cleanliness of Hospital Environment
+2018,H_COMP_1,4,16,80,Communication with Nurses
+2018,H_COMP_2,4,14,82,Communication with Doctors
+2018,H_COMP_3,8,22,70,Responsiveness of Hospital Staff
+2018,H_COMP_5,17,17,66,Communication about Medicines
+2018,H_COMP_6,13,0,87,Discharge Information
+2018,H_COMP_7,5,42,53,Care Transition
+2018,H_HSP_RATING,7,20,73,Overall Hospital Rating
+2018,H_QUIET_HSP,9,29,62,Quietness of Hospital Environment
+2018,H_RECMND,5,23,72,Willingness to Recommend the Hospital
+2019,H_CLEAN_HSP,7,18,75,Cleanliness of Hospital Environment
+2019,H_COMP_1,4,15,81,Communication with Nurses
+2019,H_COMP_2,5,14,81,Communication with Doctors
+2019,H_COMP_3,8,22,70,Responsiveness of Hospital Staff
+2019,H_COMP_5,17,17,66,Communication about Medicines
+2019,H_COMP_6,13,0,87,Discharge Information
+2019,H_COMP_7,5,42,53,Care Transition
+2019,H_HSP_RATING,8,19,73,Overall Hospital Rating
+2019,H_QUIET_HSP,10,28,62,Quietness of Hospital Environment
+2019,H_RECMND,5,23,72,Willingness to Recommend the Hospital
+2020,H_CLEAN_HSP,7,17,76,Cleanliness of Hospital Environment
+2020,H_COMP_1,4,15,81,Communication with Nurses
+2020,H_COMP_2,5,13,82,Communication with Doctors
+2020,H_COMP_3,8,22,70,Responsiveness of Hospital Staff
+2020,H_COMP_5,17,17,66,Communication about Medicines
+2020,H_COMP_6,13,0,87,Discharge Information
+2020,H_COMP_7,5,41,54,Care Transition
+2020,H_HSP_RATING,8,19,73,Overall Hospital Rating
+2020,H_QUIET_HSP,9,29,62,Quietness of Hospital Environment
+2020,H_RECMND,5,23,72,Willingness to Recommend the Hospital
+2021,H_CLEAN_HSP,7,17,76,Cleanliness of Hospital Environment
+2021,H_COMP_1,4,15,81,Communication with Nurses
+2021,H_COMP_2,4,14,82,Communication with Doctors
+2021,H_COMP_3,8,22,70,Responsiveness of Hospital Staff
+2021,H_COMP_5,17,17,66,Communication about Medicines
+2021,H_COMP_6,13,0,87,Discharge Information
+2021,H_COMP_7,5,41,54,Care Transition
+2021,H_HSP_RATING,7,20,73,Overall Hospital Rating
+2021,H_QUIET_HSP,9,29,62,Quietness of Hospital Environment
+2021,H_RECMND,5,23,72,Willingness to Recommend the Hospital
+2022,H_CLEAN_HSP,9,18,73,Cleanliness of Hospital Environment
+2022,H_COMP_1,5,15,80,Communication with Nurses
+2022,H_COMP_2,5,15,80,Communication with Doctors
+2022,H_COMP_3,10,23,67,Responsiveness of Hospital Staff
+2022,H_COMP_5,19,18,63,Communication about Medicines
+2022,H_COMP_6,14,0,86,Discharge Information
+2022,H_COMP_7,6,42,52,Care Transition
+2022,H_HSP_RATING,8,20,72,Overall Hospital Rating
+2022,H_QUIET_HSP,10,27,63,Quietness of Hospital Environment
+2022,H_RECMND,6,23,71,Willingness to Recommend the Hospital
+2023,H_CLEAN_HSP,10,18,72,Cleanliness of Hospital Environment
+2023,H_COMP_1,5,16,79,Communication with Nurses
+2023,H_COMP_2,5,16,79,Communication with Doctors
+2023,H_COMP_3,11,24,65,Responsiveness of Hospital Staff
+2023,H_COMP_5,20,19,61,Communication about Medicines
+2023,H_COMP_6,14,0,86,Discharge Information
+2023,H_COMP_7,6,43,51,Care Transition
+2023,H_HSP_RATING,9,21,70,Overall Hospital Rating
+2023,H_QUIET_HSP,10,28,62,Quietness of Hospital Environment
+2023,H_RECMND,6,25,69,Willingness to Recommend the Hospital
